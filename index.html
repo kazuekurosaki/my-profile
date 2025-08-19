@@ -1,43 +1,80 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kazue Kurosaki - Translation Portfolio</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kazue Kurosaki - Arcane Translation Portfolio</title>
+  <link rel="icon" href="logo.png" />
   <style>
     body {
+      background-color: #0f0f1a;
+      color: #f1f1f1;
       font-family: 'Segoe UI', sans-serif;
-      background-color: #111;
-      color: #eee;
-      padding: 2em;
-      max-width: 800px;
+      line-height: 1.6;
+      max-width: 860px;
       margin: auto;
+      padding: 2em;
     }
-    h1, h2 {
+
+    h1, h2, h3 {
       color: #c084fc;
+      text-shadow: 0 0 4px #4c1d95;
     }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1em;
+
+    img.cover {
+      width: 200px;
+      border-radius: 8px;
+      box-shadow: 0 0 12px #4c1d95;
+      margin-bottom: 1em;
     }
-    th, td {
-      border: 1px solid #444;
-      padding: 0.6em;
-      text-align: left;
+
+    .novel {
+      border-bottom: 1px dashed #444;
+      padding-bottom: 2em;
+      margin-bottom: 2em;
     }
-    th {
-      background-color: #222;
-    }
+
     a {
       color: #a5b4fc;
       text-decoration: none;
     }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
     blockquote {
-      font-style: italic;
-      color: #aaa;
-      border-left: 4px solid #333;
+      border-left: 4px solid #4c1d95;
       padding-left: 1em;
+      font-style: italic;
+      color: #b3b3ff;
+    }
+
+    ul {
+      list-style-type: '🌟 ';
+      padding-left: 1.2em;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 3em;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+
+    .summon {
+      text-align: center;
+      margin-top: 3em;
+    }
+
+    .qr {
+      margin-top: 1em;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #333;
+      margin: 3em 0;
     }
   </style>
 </head>
@@ -50,69 +87,64 @@
   </blockquote>
 
   <h2>🔮 Light Novel yang Telah Diterjemahkan</h2>
-  <table>
-    <tr>
-      <th>Judul Asli</th>
-      <th>Terjemahan</th>
-      <th>Bahasa</th>
-      <th>Genre</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td>影の王女と禁断の契約</td>
-      <td>The Shadow Princess and the Forbidden Pact</td>
-      <td>Jepang</td>
-      <td>Fantasy, Romance</td>
-      <td>Selesai</td>
-    </tr>
-    <tr>
-      <td>악마의 계약서</td>
-      <td>The Devil’s Contract</td>
-      <td>Korea</td>
-      <td>Urban Fantasy</td>
-      <td>Ongoing</td>
-    </tr>
-    <tr>
-      <td>仙道玄经</td>
-      <td>Taoist Chronicles of Immortality</td>
-      <td>China</td>
-      <td>Xianxia, Cultivation</td>
-      <td>Selesai</td>
-    </tr>
-    <tr>
-      <td>時をかける幼馴染</td>
-      <td>Time-Leaping Childhood Friend</td>
-      <td>Jepang</td>
-      <td>Sci-Fi, Slice of Life</td>
-      <td>Selesai</td>
-    </tr>
-    <tr>
-      <td>冰封帝国</td>
-      <td>Frozen Empire</td>
-      <td>China</td>
-      <td>Fantasy, Sci-Fi</td>
-      <td>Dalam Proses</td>
-    </tr>
-  </table>
+
+  <div class="novel">
+    <h3>1. The Shadow Princess and the Forbidden Pact</h3>
+    <p>📘 <i>「影の王女と禁断の契約」</i> | 🇯🇵 Jepang | 💠 Fantasy, Romance | ✅ Selesai</p>
+    <img src="assets/cover-shadow-princess.jpg" alt="Shadow Princess" class="cover" />
+  </div>
+
+  <div class="novel">
+    <h3>2. The Devil’s Contract</h3>
+    <p>📘 <i>「악마의 계약서」</i> | 🇰🇷 Korea | 🔥 Urban Fantasy | 🔄 Ongoing</p>
+    <img src="assets/cover-devils-contract.jpg" alt="Devil’s Contract" class="cover" />
+  </div>
+
+  <div class="novel">
+    <h3>3. Taoist Chronicles of Immortality</h3>
+    <p>📘 <i>「仙道玄经」</i> | 🇨🇳 China | 🌀 Xianxia, Cultivation | ✅ Selesai</p>
+    <img src="assets/cover-taoist-chronicles.jpg" alt="Taoist Chronicles" class="cover" />
+  </div>
+
+  <div class="novel">
+    <h3>4. Time-Leaping Childhood Friend</h3>
+    <p>📘 <i>「時をかける幼馴染」</i> | 🇯🇵 Jepang | ⏳ Slice of Life, Sci-Fi | ✅ Selesai</p>
+    <img src="assets/cover-time-friend.jpg" alt="Time Friend" class="cover" />
+  </div>
+
+  <div class="novel">
+    <h3>5. Frozen Empire</h3>
+    <p>📘 <i>「冰封帝国」</i> | 🇨🇳 China | ❄️ Fantasy, Sci-Fi | 🕓 Dalam Proses</p>
+    <img src="assets/cover-frozen-empire.jpg" alt="Frozen Empire" class="cover" />
+  </div>
+
+  <hr />
 
   <h2>🧙 Tools & Artefak</h2>
   <ul>
-    <li><strong>CAT Tools:</strong> DeepL, Trados</li>
+    <li><strong>CAT Tools:</strong> DeepL, Trados, MemoQ</li>
     <li><strong>Skill:</strong> JLPT N1+, HSK 6, TOPIK Advanced</li>
     <li><strong>Workflow:</strong> Markdown → Proofreading → QC → Typeset-ready</li>
-    <li><strong>Glossary & Memory:</strong> 1000+ entri siap pakai</li>
+    <li><strong>Glossary & Memory:</strong> 1000+ entri term dan istilah LN</li>
   </ul>
 
-  <h2>📜 Ingin Memanggil Kazue?</h2>
-  <p>
-    📧 <a href="mailto:kazue.kurosaki@arcane-translation.net">kazue.kurosaki@arcane-translation.net</a><br>
-    🐦 <a href="https://twitter.com/KazueKuroTrans">@KazueKuroTrans</a><br>
-    🌐 <a href="https://kazuekurosaki.com">kazuekurosaki.com</a>
-  </p>
+  <div class="summon">
+    <h2>📜 Ingin Memanggil Kazue?</h2>
+    <p>
+      📧 <a href="mailto:kazue.kurosaki@arcane-translation.net">kazue.kurosaki@arcane-translation.net</a><br />
+      🐦 <a href="https://twitter.com/KazueKuroTrans">@KazueKuroTrans</a><br />
+      🌐 <a href="https://kazuekurosaki.com">kazuekurosaki.com</a>
+    </p>
+    <div class="qr">
+      <img src="assets/qr-code.png" alt="QR Code to summon Kazue" width="160" />
+      <p><i>Scan rune untuk membuka portal komunikasi</i></p>
+    </div>
+  </div>
 
-  <blockquote>
-    "Terjemahan bukan hanya kata-kata. Ia adalah mantra penghubung dunia."
-  </blockquote>
+  <footer>
+    <p><em>"Terjemahan bukan hanya kata-kata. Ia adalah mantra penghubung dunia."</em></p>
+    <p>&copy; 2025 Kazue Kurosaki. All rights reserved.</p>
+  </footer>
 
 </body>
 </html>
