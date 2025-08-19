@@ -50,7 +50,7 @@ Kazue Kurosaki adalah penerjemah lintas dimensi, penakluk teks-teks misterius da
 - [x] **「時をかける幼馴染」** - *Time-Leaping Childhood Friend* (JP)
 - [x] **「冰封帝国」** - *Frozen Empire* (CN)
 
-*(Dan ratusan volume lain yang tersegel dalam lemari astral milik Kazue...)*
+🧩 **Lihat portofolio lengkap di: [kazuekurosaki.com/portfolio](https://kazuekurosaki.com/portfolio)**
 
 ---
 
@@ -58,9 +58,22 @@ Kazue Kurosaki adalah penerjemah lintas dimensi, penakluk teks-teks misterius da
 
 Ingin memanggil Kazue untuk misi terjemahan? Kirimkan surat panggilan melalui rune digital berikut:
 
-- ✉️ **Email**: `kazue.kurosaki@arcane-translation.net`
-- 🐦 **X/Twitter**: [@KazueKuroTrans](https://twitter.com/KazueKuroTrans)
+- ✉️ **Email**: `kazue.kurosaki@arcane-translation.net`  
+- 🐦 **X/Twitter**: [@KazueKuroTrans](https://twitter.com/KazueKuroTrans)  
 - 🌐 **Guild HQ**: [kazuekurosaki.com](https://kazuekurosaki.com)
+
+<p align="center">
+  <img src="qr-code.png" alt="QR Code to summon Kazue" width="160"/><br>
+  <i>Scan rune untuk membuka portal komunikasi</i>
+</p>
+
+---
+
+## 🧙‍♀️ Stats Guild (Powered by GitHub Arcane Core)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KazueKurosaki&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true" alt="Kazue's GitHub Stats" />
+</p>
 
 ---
 
