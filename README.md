@@ -6,6 +6,16 @@
 
 <p align="center"><i>"Dalam dunia yang diselimuti huruf tak dikenal, muncullah satu jiwa yang mampu menguraikan sihir dari Timur..."</i></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JP-日本語-red.svg?style=for-the-badge&logo=googletranslate" alt="Japanese">
+  <img src="https://img.shields.io/badge/KR-한국어-blue.svg?style=for-the-badge&logo=googletranslate" alt="Korean">
+  <img src="https://img.shields.io/badge/CN-中文-orange.svg?style=for-the-badge&logo=googletranslate" alt="Chinese">
+  <img src="https://img.shields.io/badge/Status-Aktif-green.svg?style=for-the-badge&logo=spring" alt="Active">
+  <img src="https://img.shields.io/badge/Genre-Fantasy%20%7C%20Isekai%20%7C%20Romance-purple.svg?style=for-the-badge" alt="Genre">
+  <img src="https://img.shields.io/badge/Tools-CAT%20Tools%20%7C%20Markdown%20%7C%20VSCode-yellow.svg?style=for-the-badge&logo=visualstudiocode" alt="Tools">
+  <img src="https://img.shields.io/badge/Mana-999%2F999-8a2be2.svg?style=for-the-badge&logo=magic-the-gathering" alt="Mana">
+</p>
+
 ---
 
 ## ⚔️ Tentangku
